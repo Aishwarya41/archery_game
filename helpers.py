@@ -1,9 +1,5 @@
-"""CS 108 Final Project
-
+"""
 This module implements helper functions.
-
-@author: Aishwarya Joshi (aj37)
-@date: Fall, 2021
 """
 
 from random import randint
