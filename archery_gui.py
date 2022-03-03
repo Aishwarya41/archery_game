@@ -1,11 +1,5 @@
-"""CS 108 Final Project
-
+"""
 This module implements the GUI of the Archery game.
-
-After Project 3 walkthrough, I added the leaderboard and methods associated with it, pop-up windows and test module.
-
-@author: Aishwarya Joshi (aj37)
-@date: Fall, 2021
 """
 
 from guizero import App, Drawing, Box, PushButton, Text, Picture, Window
