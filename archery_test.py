@@ -1,9 +1,5 @@
-"""CS 108 Final Project
-
+"""
 This module tests some of the basic functionality of the archer model.
-
-@author: Aishwarya Joshi (aj37)
-@date: Fall, 2021
 """
 
 from archery import Player, Arrow, Line, Board
