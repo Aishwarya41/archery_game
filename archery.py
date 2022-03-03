@@ -1,9 +1,5 @@
-"""CS 108 Final Project
-
+"""
 This module implements model of a Player, Arrow, Board and Line.
-
-@author: Aishwarya Joshi (aj37)
-@date: Fall, 2021
 """
 
 from helpers import distance, maxheight_of_parabola
